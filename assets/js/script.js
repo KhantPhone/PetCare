@@ -49,6 +49,10 @@
     });
     });
 
-/*wowJs*/
+/*AOS*/
 
-  new WOW().init();
+      AOS.init({        
+        duration:1500,
+        delay:250,
+        offset:100                    
+      });

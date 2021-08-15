@@ -49,10 +49,5 @@
     });
     });
 
-/*AOS*/
-
-      AOS.init({        
-        duration:1500,
-        delay:250,
-        offset:100                    
-      });
+/*wow js*/
+  new WOW().init();
